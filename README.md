@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/w8jonas/SimpleExample_LoginWithRedux)
+
 # SimpleExample_LoginWithRedux
 This is a simple two screens navigation login with redux and react-navigation
 
